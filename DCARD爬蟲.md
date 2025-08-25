@@ -110,3 +110,4 @@ def dcard(count,url,csv_name):
 dcard(11,"https://www.dcard.tw/f/youtuber?tab=latest",'dcard 爬蟲.csv')
 df = pd.read_csv('dcard 爬蟲.csv')
 print(df)
+a =[1,4,2]
